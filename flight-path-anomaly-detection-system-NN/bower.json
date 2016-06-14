@@ -1,0 +1,21 @@
+{
+  "name": "FlightPathAnomalyDetectionApp",
+  "version": "0.0.0",
+  "authors": [
+    "Shuai ZHANG <nicolasloco@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "noty": "~2.3.5",
+    "mustache": "~2.0.0",
+    "lodash": "^4.11.2",
+    "semantic": "semantic-ui#^2.1.8"
+  }
+}
