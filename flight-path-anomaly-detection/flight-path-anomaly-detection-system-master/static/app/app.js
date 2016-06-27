@@ -1,5 +1,5 @@
 /**
- * Created by NicolasZHANG on 4/19/15.
+ * Created on 4/20/16.
  */
 $(document).ready(function () {
     var WIND_EFFECT_WEIGHT_ON_X = 20,
